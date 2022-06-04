@@ -1,4 +1,5 @@
-<h1 align="center">Hello there, I'm Duarte Silva <img width="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
+<h1 align="center">Hello there! <img width="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
+<h1 align="center">I'm Duarte Silva, a guy that knows nothing about programming.</h1>
 
 <p align="center">ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</br>
 <img width="80" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
