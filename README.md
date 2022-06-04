@@ -3,7 +3,7 @@
 <b>Currently learning:</b>
 <br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Koltin](https://img.shields.io/badge/Koltin-3776AB?style=flat&logo=koltin&logoColor=white)
+![Koltin](https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 
 <b>Contact me</b>
 
