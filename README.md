@@ -1,9 +1,8 @@
 <h1 align="center">Hello there, I'm Duarte Silva 👋</h1>
 
-<b>Currently learning:</b>
-<br><br>
+<p align="center">Currently learning</br>
 <img width="80" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img width="100" src="https://img.shields.io/badge/JavaScript-575757?style=flat-square&logo=javascript&logoColor=%23F7DF1E">
+<img width="100" src="https://img.shields.io/badge/JavaScript-575757?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></p>
 
 
 
