@@ -3,6 +3,7 @@
 <b>Currently learning:</b>
 <br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/Html-3776AB?style=flat&logo=html&logoColor=white)
 
 <b>Contact me</b>
 
