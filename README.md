@@ -3,4 +3,4 @@
 I'm currently learning:
 <br><br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-3726AB?style=for-the-badge&logo=javascript&logoColor=white)
