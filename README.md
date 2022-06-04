@@ -10,4 +10,3 @@
 <a href="https://twitter.com/duartengsilva"><img src="https://img.shields.io/badge/Twitter-%40duartengsilva-1DA1F2?style=flat-square"></a>
 <a href="https://instagram.com/duartengsilva"><img src="https://img.shields.io/badge/Instagram-%40duartengsilva-E1306C?style=flat-square"></a>
 <a href="mailto:heyduartesilva@gmail.com"><img src="https://img.shields.io/badge/Email-heyduartesilva%40gmail.com-orange?style=flat-square"></a>
-<img src="https://img.shields.io/badge/Discord-Duarte%234858-5865F2?style=flat-square"></p>
