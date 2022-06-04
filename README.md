@@ -2,7 +2,7 @@
 
 <b>Currently learning:</b>
 <br><br>
-![Python](https://img.shields.io/badge/Python-3776AB&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 <b>Contact me</b>
 
