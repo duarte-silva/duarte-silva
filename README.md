@@ -1,4 +1,4 @@
 # Duarte Silva
-### Aspiring Graphic Designer and Game Developer
+### Currently learning python as my first programming language
 
-Hello, sorry for having that much information to display, but I'm new here and still got a lot to learn about GitHub.
+As stated above I'm currently learning Python. I've tried learning other languages and kept giving up, but so far with Python I've been loving it. I've been learning a lot latelly and don't plan on giving up on it.
