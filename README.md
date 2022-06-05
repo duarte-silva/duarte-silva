@@ -1,9 +1,9 @@
 <h1 align="center">Hello there! <img width="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
 
 <p align="center">ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</br>
-<img width="65" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=%23F7DF1E">
-<img width="80" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img width="100" src="https://img.shields.io/badge/JavaScript-575757?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=%23F7DF1E">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-575757?style=flat-square&logo=javascript&logoColor=%23F7DF1E"></p>
 
 
 
