@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img width="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
 
 <p align="center">ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</br>
-<img src="https://img.shields.io/badge/Java-c7761a?style=flat-square&logo=Java&logoColor=white"></p>
+<img src="https://img.shields.io/badge/Java-faa81b?style=flat-square&logo=Java&logoColor=white"></p>
 
 
 
