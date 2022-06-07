@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! <img width="40" src="https://c.tenor.com/Wx9IEmZZXSoAAAAi/hi.gif"/></h1>
 
 <p align="center">ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ</br>
-<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=FFD43B"></p>
+<img src="https://img.shields.io/badge/Python-4B8BBE?style=flat-square&logo=Python&logoColor=White"></p>
 
 
 
